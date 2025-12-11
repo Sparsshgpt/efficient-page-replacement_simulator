@@ -59,9 +59,10 @@ Reference String: `7,0,1,2,0,3,0,4,2,3,0,3,2,1,2,0,1,7,0,1`
 
 Created for Operating Systems CA2 Project
 Sparsh Gupta (12415691)
-Lakshya Pandey(12408450)
-Kushagra Chouhan(12408848)
+Lakshya Pandey (12408450)
+Kushagra Chouhan (12408848)
 
 ## 📝 License
 
 This project is for educational purposes.
+
