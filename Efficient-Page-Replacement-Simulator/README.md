@@ -62,6 +62,12 @@ Sparsh Gupta (12415691)
 Lakshya Pandey(12408450)
 Kushagra Chouhan(12408848)
 
-## 📝 License
+---
+## 📄 License
 
-This project is for educational purposes.
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this project for personal or commercial purposes, provided that the original copyright and license notice are included.
+
+For more details, see the [LICENSE](LICENSE) file.
+
